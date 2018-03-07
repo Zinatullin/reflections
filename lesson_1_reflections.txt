@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Мы можем ставнить старую и новую версию файла, что позволит найти источник проблем.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	Мы сможем вернуться на более рание стадии разработки программы, если разработка пошла в неверном направлении.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Преимущества: мы может разбить на коммиты по логическим блокам
+    Недостатки: можем забыть сохраниться
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git используется для сохранения файлов проекта, где многие файлы взаимосвязанны. Google Docs используется для редактирования одиночных документов.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Мы используем команду git log чтобы найти commit, затем используя Commit's ID мы можем с помощью git diff просмотреть сделанный изменения.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Есть возможность вернуться на один или несколько шагов назад и исправить ошибку
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Не понял вопроса :)
