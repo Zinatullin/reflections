@@ -12,8 +12,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Мы можем добавлять каждый раз измененный файл в Stage Area и далее по необходимости закоммитить его.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Например когда мы хотим добавить и протестировать какой-то новый функционал. Они позволяют нам одновременно обновлять главную версию приложения и разрабатывать новые возможности.
 
 How do the diagrams help you visualize the branch structure?
 
