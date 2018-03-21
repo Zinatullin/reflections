@@ -30,3 +30,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Происходит автоматическое слияние двух файлов, нет необходимости делать это вручную. Недостаток в том, что в случае конфликтов необходимо разобраться и и некоторые участки кода все же объединить вручную.
