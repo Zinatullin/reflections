@@ -1,5 +1,11 @@
-When would you want to create a remote repository rather than keeping all your work?
+﻿When would you want to create a remote repository rather than keeping all your work?
 
 Why might you want to always pull changes manually rather then having Git automatically stay up-to-date with your remote repository?
 
 Чтобы иметь возможность загружать только те изменения, которые необходимы с Вашей точки зрения
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - это копия чьего-то хранилища на свой аккаунт в гитхабе
+Clones - это копия хранилища на локальной машине или на своем аккаунте в гитхабе
+Branches - это разные ветки одного и того же проекта в пределах одного хранилища
